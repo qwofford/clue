@@ -5,7 +5,7 @@
 <br><br>
 A detailed account of my strategy for playing clue is described in the Python notebook contained in this repository. Sample output from the simulation that was used to validate my strategy is found below.
 
-  --------------------DICK--------------------
+```--------------------DICK--------------------
 dick is nearest to conservatory and their token is peacock
 Best path is from conservatory to conservatory.
 dick thinks best guess is currently: white in the conservatory with the wrench
@@ -175,4 +175,4 @@ Visted outer loop 11 times
 mbali is nearest to dining and their token is mustard
 Best path is from dining to dining.
 mbali thinks best guess is currently: white in the dining with the rope
-We have a winner! mbali guessed white in the dining with the rope in 12 turns
+We have a winner! mbali guessed white in the dining with the rope in 12 turns```
