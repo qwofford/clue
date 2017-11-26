@@ -7,6 +7,7 @@ A detailed account of my strategy for playing clue is described in the Python no
 <br><br>
 <div align='center'><img src='hist.png'></img></div>
 <br><br>
+
 ```
 --------------------DICK--------------------
 dick is nearest to conservatory and their token is peacock
