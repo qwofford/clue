@@ -1,4 +1,4 @@
-# Validating my Clue Strategy
+# Validating a Clue Strategy
 
 <br><br>
 <div align='center'><img src='clue_board.jpg'></img></div>
